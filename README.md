@@ -1,1 +1,1 @@
-# CGPA
+# CGPA Calculator 
