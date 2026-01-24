@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CGPA/CGPA.vcxproj" Id="da800e6f-b420-4208-9d79-160e629ef13d" />
+</Solution>
